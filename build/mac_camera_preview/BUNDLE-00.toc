@@ -1,0 +1,3 @@
+([('mac_camera_preview',
+   '/Users/I759101/Documents/Code/dist/mac_camera_preview',
+   'EXECUTABLE')],)
